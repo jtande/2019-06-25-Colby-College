@@ -601,7 +601,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
-  <h3>R</h3>
+<!--  <h3>R</h3>
 
   <p>
     <a href="https://www.r-project.org">R</a> is a programming language
@@ -649,6 +649,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
     </div>
   </div>
+  -->
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
@@ -697,6 +698,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
 
+<!--
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
@@ -742,6 +744,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
     </div>
   </div>
+  -->
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 {% comment %}
