@@ -10,7 +10,8 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+#title: "Workshop Title"
+title: "Software Carpentry Workshop Python/Git/Shell Colby College "
 
 
 #------------------------------------------------------------
