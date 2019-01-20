@@ -47,10 +47,27 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
+<h4>
+<a href="https://software-carpentry.org/">Software Carpentry</a> aims to help researchers
+get their work done in less time and with less pain by teaching them basic research computing
+skills. This hands-on workshop will cover basic concepts and tools, including program design,
+version control, data management, and task automation. Participants will be encouraged to help
+one another and to apply what they have learned to their own research problems.
+
+Though, The Linux shell and version control will be on the menu, the Python programing language
+will be introduced as well. Python is an open-source and versatile programming language that is
+especially popular among those learning a programming language for the first time. It is concise,
+legible, and can be used for a variety of needs including web development, data analytics, core
+software development and a wide range of scientific and mathematical applications. It has been
+adopted by a wide variety of industries and applications including data science, machine learning,
+data analytics, predictive analytics, business intelligence and web analytics.
+{% comment %}
+This is the workshop template. Delete these lines and use it to customize your own website.
 If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
 <a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
+and our administrator may contact you if we need any extra information.
+{% endcomment %}
+</h4>
 
 <h2 id="general">General Information</h2>
 
